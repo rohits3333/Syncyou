@@ -1,2 +1,2 @@
 # Syncyou
-Syncyou . all in sync
+Welcome
